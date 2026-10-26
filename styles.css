@@ -7,6 +7,6 @@ main{
 }
 p.hello-accio{
 		color: white;
-		margin :32px left;
+		margin-left :32px ;
 		padding :10px;
 }
